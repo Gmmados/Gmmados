@@ -50,10 +50,10 @@ Topics include reconnaissance and service enumeration, password hashes, wordlist
 | [ULK Chess](https://github.com/Gmmados/ulk-chess) | Bilingual English/Arabic website for the ULK Chess Club |
 | [Hospital System](https://github.com/Gmmados/Hospital-System) | Python learning project about object-oriented design and modular architecture |
 
-## GitHub metrics
+## GitHub dashboard
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Gmmados?template=classic&config.timezone=Africa%2FKigali&config.display=large&base=header%2C%20activity%2C%20repositories%2C%20metadata&plugin_introduction=1&plugin_habits=1&plugin_isocalendar=1&plugin_languages=1&plugin_languages.limit=8&plugin_achievements=1&plugin_topics=1&plugin_projects=1&plugin_pagespeed=1&plugin_pagespeed.url=https%3A%2F%2Fgmmados.github.io%2F" alt="GitHub infographic with activity, contribution calendar, languages, topics, projects, and portfolio PageSpeed" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gmmados&theme=github_dark" alt="GitHub profile, contributions, and account details" width="100%" /><br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gmmados&theme=github_dark" alt="GitHub contribution statistics" width="49%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gmmados&theme=github_dark" alt="Most used programming languages" width="49%" /><br/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gmmados&theme=github_dark&utcOffset=2" alt="Commit activity by time of day" width="49%" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories!</i></p>
