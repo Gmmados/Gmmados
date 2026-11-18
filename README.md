@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gmmados.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmmados.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Abdelslam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelslam-588a1029a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gmmados-181717?style=for-the-badge&logo=github)](https://github.com/Gmmados)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32096005/mohamed-abdulslam)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 Cybersecurity is a personal hobby alongside my software engineering studies. I'm currently working through the **HTB CPTS / Penetration Tester** material, focusing on the password attacks and password cracking lessons.
 
-**Tools in my current learning path:** `Nmap` · `Metasploit Framework` · `John the Ripper` · `Hashcat`
+**Tools in my current learning path:** Nmap · Metasploit Framework · John the Ripper · Hashcat
 
 Topics include reconnaissance and service enumeration, password hashes, wordlists, and cracking fundamentals. This is hobby learning in progress; I have not completed the CPTS certification.
 
@@ -37,11 +38,31 @@ Topics include reconnaissance and service enumeration, password hashes, wordlist
 - ⌨️ Comfortable working in the **Linux command line** and **Bash**
 - 🪟 Familiar with **Windows CMD** and **PowerShell**
 
-## Technologies
+## Technologies & learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,dart,git,github,linux,bash,powershell&perline=8" alt="Python, JavaScript, TypeScript, HTML, CSS, Dart, Git, GitHub, Linux, Bash, PowerShell" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,dart,git,github,linux,bash,powershell&perline=8" alt="Python, C++, JavaScript, TypeScript, HTML, CSS, Dart, Git, GitHub, Linux, Bash, PowerShell" />
 </p>
+
+## Codewars — coding practice
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Gmmados"><img src="https://www.codewars.com/users/Gmmados/badges/large" alt="Codewars rank badge for Gmmados" /></a>
+</p>
+
+[Open my Codewars profile](https://www.codewars.com/users/Gmmados) · Clan: **Sudan** · Member since **December 2025**
+
+| Codewars progress | Current profile stats |
+|---|---:|
+| Overall rank | 5 kyu |
+| Honor | 358 |
+| Kata completed | 111 |
+| Leaderboard | #227,698 · Top 29.479% (at time of update) |
+| Next overall rank | 4 kyu · 13.0% progress |
+| C++ rank | 6 kyu · 52.3% progress |
+| Python rank | 6 kyu · 33.3% progress |
+
+**Languages trained:** C++ (highest trained, 6 kyu) · Python (most recently trained, 6 kyu)
 
 ## Selected projects
 
