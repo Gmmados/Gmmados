@@ -41,7 +41,7 @@ Topics include reconnaissance and service enumeration, password hashes, wordlist
 ## Technologies & learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,dart,git,github,linux,bash,powershell&perline=8" alt="Python, C++, JavaScript, TypeScript, HTML, CSS, Dart, Git, GitHub, Linux, Bash, PowerShell" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,bash,powershell&perline=8" alt="Python, C++, JavaScript, HTML, CSS, Git, GitHub, Linux, Bash, PowerShell" />
 </p>
 
 ## Codewars — coding practice
