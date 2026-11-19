@@ -50,7 +50,7 @@ Topics include reconnaissance and service enumeration, password hashes, wordlist
   <a href="https://www.codewars.com/users/Gmmados"><img src="https://www.codewars.com/users/Gmmados/badges/large" alt="Codewars rank badge for Gmmados" /></a>
 </p>
 
-[Open my Codewars profile](https://www.codewars.com/users/Gmmados) · Clan: **Sudan** · Member since **December 2025**
+[Open my Codewars profile](https://www.codewars.com/users/Gmmados)
 
 | Codewars progress | Current profile stats |
 |---|---:|
